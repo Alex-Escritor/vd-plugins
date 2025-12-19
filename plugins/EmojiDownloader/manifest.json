@@ -1,0 +1,14 @@
+{
+  "name": "EmojiDownloader",
+  "description": "Adds a command to get all emoji URLs from the current server.",
+  "authors": [
+    {
+      "name": "aliernfrog",
+      "id": "459370047652102154"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_download"
+  }
+}
